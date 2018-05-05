@@ -2,7 +2,7 @@
 
 ![png](boston.jpg)
 
-<b>Project Objective:</b>For this repository, I used decided to explore the boston data set using Linear Regression modeling to explore the  Boston Housing Data Set.
+<b>Project Objective:</b> For this repository, I decided to explore the Boston data set using Linear Regression to see how each feature will impact the median housing price. Also, my goal was to obtain a better understanding of different evaluation methods used in regression analysis.
 
 
 Tools Used: 
@@ -15,4 +15,6 @@ Tools Used:
 <li> sklearn </li> 
 </ul>
 
+
+The Evaluation and Modeling is located in the Boston Housing Linear Regression.ipynb file. 
 

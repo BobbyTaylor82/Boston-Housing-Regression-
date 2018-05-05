@@ -1,6 +1,6 @@
 # Boston Housing Regression 
 
-![png](boston.jpeg)
+![png](boston.jpg)
 
 <b>Project Objective:</b>For this repository, I used decided to explore the boston data set using Linear Regression modeling to explore the  Boston Housing Data Set.
 
